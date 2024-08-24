@@ -15,9 +15,8 @@ const Home = () => {
             <div className="container">
               <h5 className="card-title fs-1 text fw-lighter">New Season Arrivals</h5>
               <p className="card-text fs-5 d-none d-sm-block ">
-                This is a wider card with supporting text below as a natural
-                lead-in to additional content. This content is a little bit
-                longer.
+               This card is broader and has supporting text behind it, which serves as a logical transition to further content. This content is little lengthier than usual.
+.
               </p>
             </div>
           </div>
